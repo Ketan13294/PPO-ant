@@ -215,7 +215,7 @@ class AntBlockEnv(MujocoEnv, utils.EzPickle):
             exclude_current_positions_from_observation
         )
 
-        obs_shape = 27
+        obs_shape = 29
         if not exclude_current_positions_from_observation:
             obs_shape += 2
         if use_contact_forces:

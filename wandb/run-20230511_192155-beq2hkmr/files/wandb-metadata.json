@@ -1,0 +1,150 @@
+{
+    "os": "Linux-5.15.0-71-generic-x86_64-with-glibc2.29",
+    "python": "3.8.10",
+    "heartbeatAt": "2023-05-11T23:21:56.224605",
+    "startedAt": "2023-05-11T23:21:55.562004",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--env-id",
+        "Ant-v4",
+        "--track",
+        "--capture-video"
+    ],
+    "state": "running",
+    "program": "test3.py",
+    "codePath": "test3.py",
+    "git": {
+        "remote": "https://github.com/Ketan13294/PPO-ant.git",
+        "commit": "a7e5c3e0cffa1741d77d2ffe260ec210651ad241"
+    },
+    "email": "mketan92@gmail.com",
+    "root": "/home/ketan20/lbcr_ws/trial/Project/PPO-ant",
+    "host": "ketan20-Pulse-GL66-12UGKV",
+    "username": "ketan20",
+    "executable": "/usr/bin/python",
+    "cpu_count": 14,
+    "cpu_count_logical": 20,
+    "cpu_freq": {
+        "current": 1331.64245,
+        "min": 400.0,
+        "max": 4180.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1148.841,
+            "min": 400.0,
+            "max": 4600.0
+        },
+        {
+            "current": 515.9,
+            "min": 400.0,
+            "max": 4600.0
+        },
+        {
+            "current": 1784.425,
+            "min": 400.0,
+            "max": 4600.0
+        },
+        {
+            "current": 522.909,
+            "min": 400.0,
+            "max": 4600.0
+        },
+        {
+            "current": 2469.556,
+            "min": 400.0,
+            "max": 4700.0
+        },
+        {
+            "current": 1148.138,
+            "min": 400.0,
+            "max": 4700.0
+        },
+        {
+            "current": 835.811,
+            "min": 400.0,
+            "max": 4700.0
+        },
+        {
+            "current": 694.902,
+            "min": 400.0,
+            "max": 4700.0
+        },
+        {
+            "current": 1876.024,
+            "min": 400.0,
+            "max": 4600.0
+        },
+        {
+            "current": 2432.035,
+            "min": 400.0,
+            "max": 4600.0
+        },
+        {
+            "current": 2585.991,
+            "min": 400.0,
+            "max": 4600.0
+        },
+        {
+            "current": 680.839,
+            "min": 400.0,
+            "max": 4600.0
+        },
+        {
+            "current": 1512.871,
+            "min": 400.0,
+            "max": 3500.0
+        },
+        {
+            "current": 699.257,
+            "min": 400.0,
+            "max": 3500.0
+        },
+        {
+            "current": 1273.751,
+            "min": 400.0,
+            "max": 3500.0
+        },
+        {
+            "current": 3054.081,
+            "min": 400.0,
+            "max": 3500.0
+        },
+        {
+            "current": 2332.684,
+            "min": 400.0,
+            "max": 3500.0
+        },
+        {
+            "current": 2517.007,
+            "min": 400.0,
+            "max": 3500.0
+        },
+        {
+            "current": 1853.142,
+            "min": 400.0,
+            "max": 3500.0
+        },
+        {
+            "current": 1372.2,
+            "min": 400.0,
+            "max": 3500.0
+        }
+    ],
+    "disk": {
+        "total": 136.44643783569336,
+        "used": 47.302330017089844
+    },
+    "gpu": "NVIDIA GeForce RTX 3070 Laptop GPU",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3070 Laptop GPU",
+            "memory_total": 8589934592
+        }
+    ],
+    "memory": {
+        "total": 15.334823608398438
+    }
+}
